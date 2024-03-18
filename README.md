@@ -7,7 +7,7 @@ Como Executar
 Certifique-se de ter o Node.js instalado em seu sistema.
 Clone este repositório em sua máquina local usando o comando:
 
-git clone https://github.com/arissandro/js.git
+git clone https://github.com/arissandro/portfolio-js.git
 Navegue até o diretório do projeto que deseja executar.
 Execute o arquivo JavaScript desejado usando o Node.js. Por exemplo, para executar um arquivo chamado meuArquivo.js:
 
